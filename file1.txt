@@ -2,8 +2,5 @@ welcome to demo class
 this is my second commit
 this my third commit
 hello all
-<<<<<<< HEAD
 asharani
 hellow how are you
-=======
->>>>>>> parent of 8695eb0 (demo reverting)
